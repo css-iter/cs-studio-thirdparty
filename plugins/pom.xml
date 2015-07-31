@@ -26,6 +26,5 @@
     <module>org.eclipse.nebula.jface.gridviewer</module>
     <module>org.eclipse.nebula.widgets.grid</module>
     <module>gov.bnl.shiftClient</module>
-    <module>org.csstudio.batik.dom.svg.fragment</module>
   </modules>
 </project>
